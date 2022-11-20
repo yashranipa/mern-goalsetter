@@ -1,6 +1,6 @@
 # Goalsetter MERN app
 
-This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+This is a goalsetter app created with MERN stack.
 
 ## Usage
 
@@ -24,7 +24,5 @@ npm run server
 ```
 
 ## Demo
-
-I am not sure how long this will be up
 
 https://mernappbrad.herokuapp.com/
